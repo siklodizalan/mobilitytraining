@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159805707956",
+    "project_id": "siklodizalan-mobilitytraining",
+    "storage_bucket": "siklodizalan-mobilitytraining.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159805707956:android:7f43827ee7d2b7f205a9e1",
+        "android_client_info": {
+          "package_name": "com.example.mobilitytraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159805707956-4inbrbf0r7vds8fmf1n399fra6njmga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOWsAtQHqh69_rd8gRSPvAakSX87aCOms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159805707956-4inbrbf0r7vds8fmf1n399fra6njmga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
